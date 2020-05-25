@@ -1,23 +1,27 @@
 # kalpa-googleapis [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
 > The is kalpa module for googleapis
 
 ## Installation
 
 ```sh
-$ npm install --save kalpa-googleapis
+$ npm install kalpa -g
+$ kalpa install kalpa-googleapis
+$ kalpa list
 ```
+
+Use the playbook examples [Here](https://github.com/patilvinay/kalpa/tree/master/examples)
 
 ## Usage
 
-```js
-const kalpaGoogleapis = require('kalpa-googleapis');
+```sh
+kalpa <playbook.yml>
 
-kalpaGoogleapis('Rainbow');
 ```
+
 ## License
 
 Apache-2.0 © [Vinay Patil]()
-
 
 [npm-image]: https://badge.fury.io/js/kalpa-googleapis.svg
 [npm-url]: https://npmjs.org/package/kalpa-googleapis
