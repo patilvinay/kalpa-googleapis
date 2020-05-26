@@ -2,6 +2,8 @@
 
 > The is kalpa module for googleapis
 
+## Please refer kalpa documentation [Here](https://github.com/patilvinay/kalpa/blob/master/README.md) or [Here](https://www.npmjs.com/package/kalpa)
+
 ## Installation
 
 ```sh
